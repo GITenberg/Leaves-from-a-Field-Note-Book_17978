@@ -1,0 +1,30 @@
+_repo: Leaves-from-a-Field-Note-Book_17978
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morgan, J. H. (John Hartman)
+    aliases:
+    - Morgan, John Hartman
+    - Morgan, Prof. J.H.
+    - Morgan, John H. (John Hartman)
+    birthdate: 1876
+    deathdate: 1955
+    gutenberg_agent_id: '7735'
+    url: http://www.gutenberg.org/2009/agents/7735
+description: ''
+gutenberg_issued: '2006-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17978'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, English'
+title: Leaves from a Field Note-Book
+url: http://www.gutenberg.org/ebooks/17978
